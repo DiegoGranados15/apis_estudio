@@ -1,0 +1,108 @@
+[
+    {
+      "id": 1,
+      "raza": "Abyssinian",
+      "origen": "Etiopía",
+      "caracteristicas": "Activo, curioso y social.",
+      "img": "https://www.purina.es/sites/default/files/2021-02/CAT%20HERO_0000_Abyssinian.jpg"
+    },
+    {
+      "id": 2,
+      "raza": "Persa",
+      "origen": "Irán",
+      "caracteristicas": "Tranquilo, cariñoso y elegante.",
+      "img": "https://www.perrosderaza.co/wp-content/uploads/2025/01/Gato-Persa.png"
+    },
+    {
+      "id": 3,
+      "raza": "Maine Coon",
+      "origen": "Estados Unidos",
+      "caracteristicas": "Grande, amigable y peludo.",
+      "img": "https://romeomascotas.com/wp-content/uploads/2016/07/Gatos-Maine-coon-Medellin-Antioquia.jpg"
+    },
+    {
+      "id": 4,
+      "raza": "Siamés",
+      "origen": "Tailandia",
+      "caracteristicas": "Vocal, leal e inteligente.",
+      "img": "https://scontent.fbog4-2.fna.fbcdn.net/v/t39.30808-6/248793474_395440952222021_76993321955813673_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHXWLjOSVMNYIw0n3bd0pEPySQ5O8iJaw_JJDk7yIlrDzBR9EUf5pFO7gSq_JhFfYtYU7pW_xe5GZm27oDZmvBX&_nc_ohc=IPeY8mMWUu0Q7kNvwHz0YdW&_nc_oc=Adl13cO-x6PcS4XDiRg3CjiD3BmMEzM6og_DOkNhxReakhvF0KMs_aPa5U970hbaIo8&_nc_pt=1&_nc_zt=23&_nc_ht=scontent.fbog4-2.fna&_nc_gid=GliddVAsAEN-jmndvYMxBQ&oh=00_AfHCILpwitO4Dd5Ps6SE3UphKl2ylYsbRcDi7REiLYyj7A&oe=681675BA"
+    },
+    {
+      "id": 5,
+      "raza": "Bengalí",
+      "origen": "Estados Unidos",
+      "caracteristicas": "Activo, juguetón y con patrón salvaje.",
+      "img": "https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Bengal.1.jpg?itok=jcwfXNOA"
+    },
+    {
+      "id": 6,
+      "raza": "Sphynx",
+      "origen": "Canadá",
+      "caracteristicas": "Sin pelo, sociable y cálido.",
+      "img": "https://purina.com.co/sites/default/files/2022-11/purina-como-cuidar-al-gato-esfinge-y-otras-razas-de-gatos-sin-pelo-nota_04.jpg"
+    },
+    {
+      "id": 7,
+      "raza": "British Shorthair",
+      "origen": "Reino Unido",
+      "caracteristicas": "Calmado, robusto y adorable.",
+      "img": "https://content.elmueble.com/medio/2023/05/31/gato-british_8086d5da_230601112402_1200x630.jpg"
+    },
+    {
+      "id": 8,
+      "raza": "Ragdoll",
+      "origen": "Estados Unidos",
+      "caracteristicas": "Dócil, grande y cariñoso.",
+      "img": "https://content.elmueble.com/medio/2023/02/24/gato-de-raza-ragdoll_5c5827ec_230224104944_900x900.jpg"
+    },
+    {
+      "id": 9,
+      "raza": "Scottish Fold",
+      "origen": "Escocia",
+      "caracteristicas": "Orejas plegadas y muy dulce.",
+      "img": "https://www.purina.es/sites/default/files/2021-02/CAT%20HERO_0021_Scottish_fold.jpg"
+    },
+    {
+      "id": 10,
+      "raza": "Oriental Shorthair",
+      "origen": "Estados Unidos",
+      "caracteristicas": "Delgado, vocal e inteligente.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zuri.jpg"
+    },
+    {
+      "id": 11,
+      "raza": "Devon Rex",
+      "origen": "Reino Unido",
+      "caracteristicas": "Orejas grandes y pelo rizado.",
+      "img": "https://nfnatcane.es/blog/wp-content/uploads/2020/05/cachorros-de-gato-Devon-rex.jpg"
+    },
+    {
+      "id": 12,
+      "raza": "Norwegian Forest",
+      "origen": "Noruega",
+      "caracteristicas": "Pelaje grueso y naturaleza independiente.",
+      "img": "https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Norwegian20Forest.2.jpg?itok=ySDwn_-Q"
+    },
+    {
+      "id": 13,
+      "raza": "Birmano",
+      "origen": "Birmania",
+      "caracteristicas": "Tranquilo, sociable y hermoso.",
+      "img": "https://www.purina.es/sites/default/files/styles/ttt_image_510/public/2024-02/sitesdefaultfilesstylessquare_medium_440x440public2022-06Birma.1.jpg?itok=eqaIUaEm"
+    },
+    {
+      "id": 14,
+      "raza": "Savannah",
+      "origen": "Estados Unidos",
+      "caracteristicas": "Híbrido de gato doméstico y serval, muy activo.",
+      "img": "https://es.aap.eu/wp-content/uploads/sites/6/2023/03/gato-serval.jpg"
+    },
+    {
+      "id": 15,
+      "raza": "Chartreux",
+      "origen": "Francia",
+      "caracteristicas": "Silencioso, musculoso y de pelaje azul-grisáceo.",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/57/Chartreux-Bonheur-nuits_indiennes-neige2009.jpg"
+    }
+  ]
+  
